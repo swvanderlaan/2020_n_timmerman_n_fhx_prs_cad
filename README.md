@@ -1,5 +1,6 @@
 Family history and polygenic risk of cardiovascular disease: independent factors associated with secondary cardiovascular manifestations in patients undergoing carotid endarterectomy
 ===========================================================
+[![DOI](https://zenodo.org/badge/259757256.svg)](https://zenodo.org/badge/latestdoi/259757256)
 
 #### This readme
 This readme accompanies the paper "Family history and polygenic risk of cardiovascular disease: independent factors associated with secondary cardiovascular manifestations in patients undergoing carotid endarterectomy." by Timmerman N. and [Timmerman N. *et al*. **bioRxiv**](https://doi.org/10.1101/19006718).
